@@ -2,7 +2,10 @@ class Content extends React.Component {
   render() {
     return (
       <div>
-        <h1>Hello World</h1>
+        <Button buttonLabel="Start"/>
+        <Button buttonLabel="Stop"/>
+        <Button buttonLabel="Pause"/>
+        <Button/>
       </div>
     )
   }

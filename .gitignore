@@ -1,5 +1,7 @@
 .idea
 node_modules
+js/Button.js
 js/Component.js
 js/main.js
+
 
